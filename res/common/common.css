@@ -33,3 +33,18 @@
 	font-weight: 300;
 	line-height: 1.4;
 }
+
+.bs-docs-footer {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 50px;
+    color: #767676;
+    text-align: center;
+    border-top: 1px solid #e5e5e5;
+}
+
+.show-content {
+	border-color: #ddd;
+    border-width: 1px;
+    border-radius: 4px 4px 4px 4px;
+}
